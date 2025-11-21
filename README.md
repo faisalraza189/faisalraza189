@@ -1,23 +1,36 @@
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b38eb,50:ff7400,100:3b38eb&height=180&section=header&text=Faisal%20Raza&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF7400&center=true&vCenter=true&width=600&lines=Assalamu+Alaikum+👋;I'm+Faisal+Raza;Laravel+%26+Full+Stack+Developer" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF7400&center=true&vCenter=true&width=600&lines=Assalamu+Alaikum;I'm+Faisal+Raza;Laravel+%26+Full+Stack+Developer" alt="Typing SVG">
 
 </br>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 </p>
 
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ff7400?style=for-the-badge&logo=firefox&logoColor=white" />
+
+  <!-- Portfolio / Website -->
+  <a href="https://cleverkode.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ff7400?style=for-the-badge&logo=YOUR-LOGO&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/faisalraza189/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-3b38eb?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#" target="_blank">
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/923117915730" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <!-- Email -->
+  <a href="mailto:fraza189@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
 </p>
+
 
 ---
 
@@ -96,15 +109,15 @@ Complete business website for a digital marketing agency.
 
 <p align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph? username=faisalraza189&theme=react-dark&hide_border=true&area=true&bg_color=000000" width="55%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faisalraza189&theme=react-dark&hide_border=true&area=true&bg_color=000000" width="55%"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/? username=faisalraza189&layout=compact&theme=radical&hide_border=true&bg_color=000000&langs_count=6" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalraza189&layout=compact&theme=radical&hide_border=true&bg_color=000000&langs_count=6" width="40%"/>
 
 </p>
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api? username=faisalraza189&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=faisalraza189&show_icons=true&theme=radical&hide_border=true&bg_color=000000&include_all_commits=true" width="48%"/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=faisalraza189&theme=radical&hide_border=true&background=000000&stroke=ff7400" width="48%"/>
 
@@ -119,7 +132,7 @@ Complete business website for a digital marketing agency.
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/? username=faisalraza189&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=faisalraza189&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 </div>
@@ -131,15 +144,14 @@ Complete business website for a digital marketing agency.
 ## 🔥 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Customized my GitHub Profile README  
-2. 🚀 Working on Laravel & SAAS Projects  
-3. 🔥 Improving Full-Stack Skills  
+1. 🚀 Working on Laravel & SAAS Projects  
+2. 🔥 Improving Full-Stack Skills  
 <!--END_SECTION:activity-->
 
 </div>
 
 <p align="center" style="background-color: #000000; padding: 10px; border-radius: 5px;">
-  <img src="https://komarev.com/ghpvc/? username=faisalraza189&label=Profile%20views&color=3b38eb&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=faisalraza189&label=Profile%20views&color=3b38eb&style=flat" alt="Profile Views"/>
   <a href="https://github.com/faisalraza?tab=followers">
     <img src="https://img.shields.io/github/followers/faisalraza?label=Followers&style=social" />
   </a>
