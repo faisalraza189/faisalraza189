@@ -10,6 +10,10 @@
 <p align="center">
 
   <!-- Portfolio / Website -->
+  <a href="https://faisal--raza.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ff7400?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  
   <a href="https://cleverkode.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-ff7400?style=for-the-badge&logo=YOUR-LOGO&logoColor=white" />
   </a>
